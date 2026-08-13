@@ -11,6 +11,13 @@ int subtract(int a,int b){
 int multiply(int a,int b){
     return a*b;
 }
+int division(int a,int b){
+    if(b!=0)
+        return a/b;
+    else
+        return b/a;
+}
+
 
 int main(){
     
