@@ -18,6 +18,10 @@ int division(int a,int b){
         return b/a;
 }
 
+int sqrt(double a){
+    return sqrt(a);
+}
+
 
 int main(){
     
