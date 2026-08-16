@@ -26,6 +26,6 @@ int sqrt(double a){
 int main(){
     int a=9,b=1;
     cout<<add(a,b);
-
+    cout<<multiply(8,9);
     return 0;
 }
