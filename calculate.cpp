@@ -27,5 +27,6 @@ int main(){
     int a=9,b=1;
     cout<<add(a,b);
     cout<<multiply(8,9);
+    cout<<division(8,7);
     return 0;
 }
