@@ -28,5 +28,7 @@ int main(){
     cout<<add(a,b);
     cout<<multiply(8,9);
     cout<<division(8,7);
+
+    cout<<subtract(8,6);
     return 0;
 }
