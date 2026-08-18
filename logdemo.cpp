@@ -10,6 +10,7 @@ int main(){
 
 
     cout<<"假設出bug了"
+    
 
     return 0;
 }
